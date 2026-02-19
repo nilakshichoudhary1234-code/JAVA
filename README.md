@@ -1,55 +1,51 @@
-<h1 align="center">Java Programming Repository</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=750&lines=Java+Programming+Repository;Core+Java+%7C+OOP+%7C+DSA;Structured+Learning+Journey;Future+Software+Engineer" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Core+Java+Programs;Object-Oriented+Programming;Data+Structures+%26+Algorithms;Problem+Solving+in+Java;Continuous+Learning+and+Improvement&center=true&width=650&height=45">
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Core%20Java-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Concepts-OOP%20%7C%20DSA-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Core-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Structures-DSA-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge">
 </p>
 
 ---
 
-## Overview
+## 🧠 About the Repository
 
-This repository is a structured collection of **Java programs and problem-solving implementations**.  
-It focuses on strengthening **core programming fundamentals**, **object-oriented design**, and **algorithmic thinking**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Core+Java+Fundamentals;Object-Oriented+Programming;Data+Structures+%26+Algorithms;Problem+Solving+Practice&center=true&width=550&height=40">
+</p>
 
-The repository is intended for:
+This repository contains **Java programs and practice problems** aimed at building strong programming fundamentals.  
+It focuses on:
 
-- Academic practice
-- Concept reinforcement
-- Technical interview preparation
-- Continuous skill development
-
----
-
-## Technical Scope
-
-### Core Java
-- Data types and variables
-- Operators and expressions
-- Control flow statements
-- Functions and recursion
-- Arrays and strings
-
-### Object-Oriented Programming
-- Classes and objects
-- Constructors
-- Inheritance
-- Polymorphism
-- Encapsulation and abstraction
-
-### Data Structures and Algorithms
-- Searching algorithms
-- Sorting techniques
-- Pattern-based logic
-- Basic problem-solving approaches
+- Core Java concepts
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Pattern-based problems
+- Logical coding exercises
 
 ---
 
-## Repository Structure
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
+</p>
+
+| Category | Technology |
+|----------|-----------|
+| Language | Java |
+| IDEs | VS Code, IntelliJ IDEA, Eclipse |
+| Version Control | Git |
+| Repository | GitHub |
+
+---
+
+## 📂 Repository Structure
 
