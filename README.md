@@ -47,5 +47,5 @@ It focuses on:
 
 ---
 
-## 📂 Repository Structure
+ 
 
